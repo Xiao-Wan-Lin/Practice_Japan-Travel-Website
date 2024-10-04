@@ -16,7 +16,7 @@ The Japan Travel Website is a site that showcases popular tourist attractions ac
 ## JavaScript
 - Switch the background image every 2.5 seconds using the `setInterval()` function.
 - Use `scrollIntoView()` for smooth scrolling to the target element.
-##Third-Party Resources
+## Third-Party Resources
 - **Bootstrap** : Use Bootstrap to quickly design navigation and cards.
 - **Font Awesome** : Incorporate the Font Awesome library to use icons.
 - **Google Maps API** : Display the geographical location of Japan.
